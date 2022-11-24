@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="Assets/Agile_Explorer.png" width=200>
-  <img src="Assets/download.png" width=200>
+  <img src="Assets/download.png" width=400>
 </p>
