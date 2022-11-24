@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sweta Shah My user Name is @Sweta8430 
-- 👀 I’m interested in Painiting ,Playing with my Daughter and Going out with my Friends and Family
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m passoinate about the technology because it rewards the innovation and creativity but demands accuracy ,attention to detail and problem solving mindset.
+- 🌱 I’m currently persuing my careeer as a Software Engineer.
+- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on my Email Address swetashah.8430@gmail.com
 
 <!---
