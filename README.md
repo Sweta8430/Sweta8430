@@ -4,8 +4,7 @@
 <hr>
 
 As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving and creating products from scratch and this combination led me to pursue a career in software engineering.
-
-Once the sun sets, you can find me nursing old and broken jewellery back to life and handing it back over to its grateful owner where it will be loved once more. For every piece of jewellery I rescue, it means one less piece at the landfill. My superpower is converting trash to treasure, what's yours?</p>
+</p>
 
 - 🔭 I’m currently working on **An intensive 12 week academy with Digital Futures!**
 - 🌱 I’m currently learning **Java and Javascript!**
@@ -20,6 +19,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 </p>
 
 <hr>
+
 ### Feel Free to Contact me ...
 
 <p align="center">
@@ -29,12 +29,97 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 </p>
 
 <hr>
-### Languages and Tools ...
 
+### Languages and Tools ...
+<br>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+<br>
 <hr>
+
+
 ### Profile views counter
 
-
 ![Visitor Count](https://profile-counter.glitch.me/{Sweta8430}/count.svg)
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+
+<hr>
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Twitter Clone</h3>
+        <br />
+        <a target="_blank" >
+            <img src="/Chitter.gif" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Sweta8430/Digital-Future-Challenges/tree/main/chitter-challenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+  </a>
+      </p>
+        <p>A lovely full stack application inspired by twitter!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="/Portfolio.gif" width="100%" alt="my portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>My portfolio website</p>
+    </td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Guardian News App</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="/naughtsAndCrosses.gif" width="100%" alt="app homepage"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/Sweta8430/Digital-Future-Challenges/tree/main/GuidelineNews-Challenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Enjoy Reading the Latest News!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rock Paper Scissor Game</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="/naughtsAndCrosses.gif" width="100%" alt="app homepage"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/Sweta8430/Digital-Future-Challenges/tree/main/RPS-challenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Have Fun with ROCK_PAPER_SCISSORS</p>
+    </td>
+  </tr>
+</table>
