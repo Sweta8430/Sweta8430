@@ -37,18 +37,17 @@ As a software engineer, I build full stack web applications for my clients. I ha
 <br>
 <hr>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
+<hr>
 ### Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{Sweta8430}/count.svg)
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</div>
-
-<hr>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
