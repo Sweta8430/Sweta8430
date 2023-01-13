@@ -58,7 +58,7 @@ As a software engineer, I build full stack web applications for my clients. I ha
       <h3 align="center">Twitter Clone</h3>
         <br />
         <a target="_blank" >
-            <img src="/Chitter.gif" width="100%" alt="homepage"/>
+            <img src="Assets/chitter.gif" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
