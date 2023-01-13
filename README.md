@@ -109,7 +109,7 @@ As a software engineer, I build full stack web applications for my clients. I ha
       <h3 align="center">Rock Paper Scissor Game</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="/naughtsAndCrosses.gif" width="100%" alt="app homepage"/>
+          <img src="Assets/rps.gif" width="100%" alt="app homepage"/>
         </a>
         <br />
         <p align="center">
