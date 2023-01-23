@@ -3,12 +3,12 @@
 </p>
 <hr>
 
-As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving and creating products from scratch and this combination led me to pursue a career in software engineering.
+
 </p>
 
-- 🔭 I’m currently working on **An intensive 12 week academy with Digital Futures!**
-- 🌱 I’m currently learning **Java and Javascript!**
-- 👯 I’m looking to collaborate on **any exciting beginner projects with like-minded developers**
+- 🔭 I’m currently working on ****
+- 🌱 I’m currently learning ****
+- 👯 I’m looking to collaborate on ****
 - 📫 How to reach me: ****
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: ****
