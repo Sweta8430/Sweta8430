@@ -14,6 +14,7 @@
 - ⚡ Fun fact: ****
 
 <p align="center">
+ <img src="Assets/JAVA80JA.png" width=400>
   <img src="Assets/download.png" width=400>
   <img src="Assets/Agile_Explorer.png" width=200>  
 </p>
