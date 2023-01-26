@@ -6,13 +6,19 @@
 
 </p>
 <p>
-Hello There!! I have 2 years of Experience of being a FullStack Developer in 2009.Last few years worked as a PostOffice Manager in various Locations.Recently i have joined Digital Future and did 12 weeks of Intensive Training as a Software Engineer.
+Hello There!! I have 2 years of Experience of being a FullStack Developer back in 2009.Last few years i worked as a PostOffice Manager in various Locations in england.Recently i have joined Digital Future as a Trainee Software Engineer and finish 12 weeks of training and gained the knowledge of the diffrent technologies/tools.
 
-At Digital Future We have done few Chanllenges to enhance our knowledge of different technologies.<br>
-<b>Airport Challenge :- Vanila Javascript with TDD</b><br>
+At Digital Future We have done Chanllenges to apply our knowledge toward the learning.<br><br>
+
+<b>Chitter Challenge :- Full Stack Application React/Nodejs/exress/mocha/chai with TDD</b><br>
+<b>PRS Challenge :- Nodejs/exress/mocha/chai with TDD</b><br>
+<b>News Challenge :- React with TDD</b><br>
+<b>Scrabble Challenge :- Java with TDD</b><br>
 <b>Bank Challenge :- Vanila Javascript with TDD</b><br>
+<b>Airport Challenge :- Vanila Javascript with TDD</b><br>
 
 </p>
+
 
 - 🔭 I’m currently working on **Recipe App where you can grab and save your favourite Recipe**
 
@@ -79,24 +85,6 @@ At Digital Future We have done few Chanllenges to enhance our knowledge of diffe
       </p>
         <p>A lovely full stack application inspired by twitter!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="/Portfolio.gif" width="100%" alt="my portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>My portfolio website</p>
-    </td>
-
   </tr>
   <tr>
     <td width="50%" valign="top">
