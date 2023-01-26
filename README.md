@@ -8,9 +8,9 @@
 <p>
 Hello There!! I have 2 years of Experience of being a FullStack Developer in 2009.Last few years worked as a PostOffice Manager in various Locations.Recently i have joined Digital Future and did 12 weeks of Intensive Training as a Software Engineer.
 
-At Digital Future We have done few Chanllenges to enhance out knowledge of different technologies.
-<b>Airport Challenge :- Vanila Javascript with TDD</b>
-
+At Digital Future We have done few Chanllenges to enhance our knowledge of different technologies.<br>
+<b>Airport Challenge :- Vanila Javascript with TDD</b><br>
+<b>Bank Challenge :- Vanila Javascript with TDD</b><br>
 
 </p>
 
