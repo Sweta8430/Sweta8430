@@ -5,13 +5,21 @@
 
 
 </p>
+<p>
+Hello There!! I have 2 years of Experience of being a FullStack Developer in 2009.Last few years worked as a PostOffice Manager in various Locations.Recently i have joined Digital Future and did 12 weeks of Intensive Training as a Software Engineer.
 
-- 🔭 I’m currently working on ****
-- 🌱 I’m currently learning ****
-- 👯 I’m looking to collaborate on ****
-- 📫 How to reach me: ****
+At Digital Future We have done few Chanllenges to enhance out knowledge of different technologies.
+<b>Airport Challenge :- Vanila Javascript with TDD</b>
+
+
+</p>
+
+- 🔭 I’m currently working on **Recipe App where you can grab and save your favourite Recipe**
+
+- 🌱 I’m currently learning **React/Node.Js/Express/Java/Javascript**
+
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: ****
+
 
 <p align="center">
  <img src="Assets/JAVA8OJA.jpg" width=400>
