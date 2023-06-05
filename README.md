@@ -9,7 +9,7 @@
 Hello There!! I have 2 years of Experience of being a FullStack Developer back in 2009.Last few years i worked as a PostOffice Manager in various Locations in england.Recently i have joined Digital Future as a Trainee Software Engineer and finish 12 weeks of training and gained the knowledge of the diffrent technologies/tools.
 
 At Digital Future We have done Chanllenges to apply our knowledge toward the learning.<br><br>
-
+	
 <b>Chitter Challenge :- Full Stack Application React/Nodejs/exress/mocha/chai with TDD</b><br>
 <b>PRS Challenge :- Nodejs/exress/mocha/chai with TDD</b><br>
 <b>News Challenge :- React with TDD</b><br>
@@ -18,11 +18,16 @@ At Digital Future We have done Chanllenges to apply our knowledge toward the lea
 <b>Airport Challenge :- Vanila Javascript with TDD</b><br>
 
 </p>
+### Below are the few projects i have recently worked  
+<b>Recipe App :- Full Stack Application React/Nodejs/exress/MongoDB</b><br>
+<p>Recipe app where you can Add your own receipe also you can add a recipe from Jamie oliver Website</p>
 
+<b>Reminder App :- Full Stack Application React/Go/Gin/MongoDB</b><br>
+<p>Reminder app where you can set the reminder to send it on your number with the help of Twilio</p>
 
-- 🔭 I’m currently working on **Recipe App where you can grab and save your favourite Recipe**
+- 🔭 I’m currently working on **Book Library app SpringBoot/Java/Nodejs/SQL/React/Type script**
 
-- 🌱 I’m currently learning **React/Node.Js/Express/Java/Javascript**
+- 🌱 I’m currently learning **SpringBoot/SQL/Tyoescript**
 
 - 😄 Pronouns: **She/Her**
 
