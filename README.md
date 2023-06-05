@@ -18,7 +18,9 @@ At Digital Future We have done Chanllenges to apply our knowledge toward the lea
 <b>Airport Challenge :- Vanila Javascript with TDD</b><br>
 
 </p>
-### Below are the few projects i have recently worked  ...
+
+### Some more Projects which are recently been done ...
+
 
 <b>Recipe App :- Full Stack Application React/Nodejs/exress/MongoDB</b><br>
 <p>Recipe app where you can Add your own receipe also you can add a recipe from Jamie oliver Website</p>
@@ -28,7 +30,7 @@ At Digital Future We have done Chanllenges to apply our knowledge toward the lea
 
 - 🔭 I’m currently working on **Book Library app SpringBoot/Java/Nodejs/SQL/React/Type script**
 
-- 🌱 I’m currently learning **SpringBoot/SQL/Tyoescript**
+- 🌱 I’m currently learning **SpringBoot/SQL/Typescript**
 
 - 😄 Pronouns: **She/Her**
 
