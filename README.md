@@ -25,6 +25,9 @@ At Digital Future We have done Chanllenges to apply our knowledge toward the lea
 <b>Recipe App :- Full Stack Application React/Nodejs/exress/MongoDB</b><br>
 <p>Recipe app where you can Add your own receipe also you can add a recipe from Jamie oliver Website</p>
 
+<b>ToDo App :- React/Js Application</b><br>
+<p>Todo App where you can log your daily to do activity</p>
+
 <b>Reminder App :- Full Stack Application React/Go/Gin/MongoDB</b><br>
 <p>Reminder app where you can set the reminder to send it on your number with the help of Twilio</p>
 
